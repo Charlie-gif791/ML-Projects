@@ -1,2 +1,5 @@
 import numpy as np
+some_array = np.linspace(0, 10, 11)
+print(f'This array: {some_array}')
+
 # End
